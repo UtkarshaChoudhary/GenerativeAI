@@ -13,7 +13,7 @@
 
 3️⃣ Generative AI Q&A with Groq Model & Streamlit
 📌 Project Title: Groq-Powered Q&A App
-Python File: groq_qna.py
+Python File: streamlit_code.py
 📝 Description: Developed an interactive Q&A app using the Groq model and Streamlit. Users can ask any question, and the app generates instant AI-powered answers. The app is designed to be easy to use and runs smoothly in the browser.
 💡 Tech Stack: Python, Streamlit, Groq API
 

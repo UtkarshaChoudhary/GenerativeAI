@@ -11,6 +11,12 @@
 📝 Description: Created a Q&A application using the Ollama model via LangChain Community. This app allows users to input queries and get AI-generated answers. Developed and tested in PyCharm.
 💡 Tech Stack: Python, LangChain Community, Ollama Model, PyCharm
 
+3️⃣ Generative AI Q&A with Groq Model & Streamlit
+📌 Project Title: Groq-Powered Q&A App
+Python File: groq_qna.py
+📝 Description: Developed an interactive Q&A app using the Groq model and Streamlit. Users can ask any question, and the app generates instant AI-powered answers. The app is designed to be easy to use and runs smoothly in the browser.
+💡 Tech Stack: Python, Streamlit, Groq API
+
 *****************************************************************************************************
 Description:
 Developed a simple GenAI project using the Groq API and LLama-3.3-70B-Versatile model. Integrated it with LangChain and built a Streamlit interface for user interaction. The model takes user input and generates responses based on the prompt.

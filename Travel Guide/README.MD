@@ -1,1 +1,1 @@
-
+This project is a simple Question-and-Answer application using Large Language Models (LLMs) with Ollama, built on Streamlit for an interactive user experience. The app allows users to input questions and receive AI-generated responses in real-time.

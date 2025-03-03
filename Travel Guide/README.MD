@@ -1,4 +1,6 @@
 This project is a simple Question-and-Answer application using Large Language Models (LLMs) with Ollama, built on Streamlit for an interactive user experience. The app allows users to input questions and receive AI-generated responses in real-time.
+
+
 🌍 Travel Guide App – AI-Powered Trip Planner
 This project is an AI-powered travel guide app that helps users plan their trips effortlessly. By leveraging Groq API and the LLaMA 3.3-70B Versatile model, the app provides personalized travel recommendations based on user preferences such as destination, travel month, budget, and preferred language.
 
